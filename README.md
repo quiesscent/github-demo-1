@@ -42,3 +42,9 @@ git push --set-upstream origin <your main initialized branch>
 
 
 <!-- initialize new branches -->
+
+git branch <your branch name>
+
+
+<!-- navigate to new branch -->
+git checkout <your branch name>
