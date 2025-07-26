@@ -1,5 +1,4 @@
 # Welcome to git Day 1
-# Welcome to git Day 1
 
 
 ```bash
