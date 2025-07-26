@@ -1,5 +1,8 @@
-# Welcome to git Day 1# Welcome to git Day 1
+# Welcome to git Day 1
+# Welcome to git Day 1
 
+
+```bash
 <!-- to initialize a repo localy -->
 
 git init
@@ -48,3 +51,5 @@ git branch <your branch name>
 
 <!-- navigate to new branch -->
 git checkout <your branch name>
+
+```
